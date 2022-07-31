@@ -281,3 +281,11 @@ main{text-align: center;}
   .modal__img{max-width:80%}
 }
 /* outuby <3 */
+
+.dollar {
+  transition: 0.2s all;
+}
+
+.dollar:active {
+  color: rgb(0, 255, 0);
+}
